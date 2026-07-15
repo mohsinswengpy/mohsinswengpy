@@ -111,15 +111,11 @@
 
 ---
 
-### 🐍 Contribution Graph
+### 📈 Contribution Activity
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-contribution-grid-snake.svg">
-  <img alt="snake contribution graph" src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-contribution-grid-snake.svg">
-</picture>
-
-<sub>Generated automatically via a scheduled GitHub Action — see setup note below.</sub>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinswengpy&theme=react-dark&hide_border=true" alt="activity graph" />
+</p>
 
 ---
 
@@ -133,14 +129,3 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
 </p>
-
----
-
-<!--
-SETUP NOTE — Snake Contribution Graph:
-This graph requires a scheduled GitHub Action to generate the SVG files it references.
-1. In this repo, go to Settings → Secrets and variables → Actions (no extra secret needed, uses GITHUB_TOKEN).
-2. Add a workflow file at .github/workflows/snake.yml using the Platane/snk action.
-3. Set the workflow to push output to an "output" branch, matching the srcset paths above.
-Reference: https://github.com/Platane/snk
--->
