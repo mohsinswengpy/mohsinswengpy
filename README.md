@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/📍_Pakistan-FF6B6B?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🎓_BS_Software_Engineering-4D96FF?style=for-the-badge&logoColor=white"/>
 <img src="https://img.shields.io/badge/🏫_AWKUM-6BCB77?style=for-the-badge&logoColor=white"/>
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=FFD93D&style=for-the-badge" alt="profile views" />
+<img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile+Views&color=FFD93D&style=for-the-badge" alt="profile views" />
 
 <br/><br/>
 
@@ -60,7 +60,7 @@ class MohsinKhan:
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&theme=synthwave&hide_border=true&count_private=true&rank_icon=github" alt="stats"/>
 
 </td>
 </tr>
@@ -225,26 +225,26 @@ A machine learning classification model that automates loan eligibility decision
 </tr>
 </table>
 
-> 💡 *Replace each `href="#"` above with your actual GitHub repo link.*
+> 💡 *Replace each `href="#"` above with your actual GitHub repo link (e.g. `https://github.com/mohsinswengpy/superstore-sales-analysis-powerbi`).*
 
 <br/>
 
 ## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=highcontrast&hide_border=true&background=0D1117&stroke=FFD93D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=6BCB77" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=mohsinswengpy&theme=highcontrast&hide_border=true&background=0D1117&stroke=FFD93D&ring=FF6B6B&fire=FF6B6B&currStreakLabel=6BCB77" alt="streak"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=redical&hide_border=true" alt="activity graph" width="90%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinswengpy&theme=redical&hide_border=true" alt="activity graph" width="90%"/>
 </div>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&theme=synthwave&hide_border=true" alt="top langs"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app?username=YOUR_USERNAME&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies"/>
+<img src="https://github-profile-trophy.vercel.app?username=mohsinswengpy&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" alt="trophies"/>
 </div>
 
 <br/>
@@ -253,7 +253,7 @@ A machine learning classification model that automates loan eligibility decision
 
 ### 🐍 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 <sub>⚙️ Generated via GitHub Action — needs a one-time workflow setup</sub>
 
