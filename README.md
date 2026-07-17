@@ -9,7 +9,7 @@
 <br/><br/>
 
 <img src="https://img.shields.io/badge/📍_Location-Pakistan-A78BFA?style=for-the-badge&labelColor=1a1b27"/>
-<img src="https://img.shields.io/badge/🎓_Status-Student-A78BFA?style=for-the-badge&labelColor=1a1b27"/>
+<img src="https://img.shields.io/badge/🎓_BS_Software_Engineering-AWKUM-A78BFA?style=for-the-badge&labelColor=1a1b27"/>
 <img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile+Views&color=A78BFA&style=for-the-badge&labelColor=1a1b27" alt="profile views" />
 
 <br/>
@@ -73,8 +73,8 @@ class MohsinKhan:
 <td width="15%" align="center">🏫</td>
 <td width="85%">
 
-**[Your Degree, e.g. BS Software Engineering]**
-[Your University Name] · Expected [Graduation Year]
+**BS Software Engineering**
+Abdul Wali Khan University Mardan (AWKUM)
 Relevant coursework: Databases, Data Structures & Algorithms, Statistics, Software Design
 
 </td>
@@ -132,37 +132,114 @@ Relevant coursework: Databases, Data Structures & Algorithms, Statistics, Softwa
 
 <br/>
 
-## 🚀 Featured Projects
+## 💼 What I Can Do For You
 
 <table align="center" width="100%">
 <tr>
-<td width="50%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=superstore-sales-analysis-powerbi&theme=radical&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-</a>
-</td>
-<td width="50%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=house-price-prediction&theme=radical&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-</a>
-</td>
-</tr>
-<tr>
-<td width="50%">
-<a href="#">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=loan-status-prediction&theme=radical&hide_border=true&bg_color=1a1b27&title_color=A78BFA&icon_color=A78BFA&text_color=ffffff" />
-</a>
-</td>
-<td width="50%" valign="middle" align="center">
+<td width="33%" valign="top" align="center">
 
-**➕ More coming soon**
-Actively building new dashboards & ML projects — check back often!
+**📊 BI Dashboards**
+<br/>
+Interactive Power BI dashboards with clean data models, DAX measures, and executive-ready visuals.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🧹 Data Cleaning & Analysis**
+<br/>
+Turning messy spreadsheets and raw datasets into clear, structured, decision-ready data using Python & SQL.
+
+</td>
+<td width="33%" valign="top" align="center">
+
+**🤖 Predictive Models**
+<br/>
+Regression & classification models (Scikit-learn / XGBoost) for forecasting and automated decision-making.
 
 </td>
 </tr>
 </table>
 
-> 💡 *Pin repos automatically render live stats — just make sure `superstore-sales-analysis-powerbi`, `house-price-prediction`, and `loan-status-prediction` match your actual repo names, or edit the `repo=` values above.*
+<br/>
+
+## 🚀 Projects
+
+<sub>A closer look at what I've built — each one solves a real, practical problem.</sub>
+
+<table align="center" width="100%">
+<tr>
+<td width="100%">
+
+### 📈 Superstore Sales Analysis Dashboard
+
+A 4-page interactive **Power BI dashboard** built for a global e-commerce (Superstore) dataset — designed to help business stakeholders make faster, data-backed decisions.
+
+- **Overview** — company-wide KPIs (sales, profit, orders, customers, profit margin) with year-over-year trends
+- **Product Performance** — profitability by category/sub-category, top & loss-making products
+- **Customer & Region Analysis** — top customers, regional profit share, market comparison
+- **Shipping & Operations** — shipping cost, delivery time, order priority, and discount-vs-profit impact
+
+**Tech Stack:**
+![Power BI](https://img.shields.io/badge/-Power_BI-1a1b27?style=flat-square&logo=powerbi&logoColor=F2C811)
+![DAX](https://img.shields.io/badge/-DAX-1a1b27?style=flat-square&logoColor=A78BFA)
+![Power Query](https://img.shields.io/badge/-Power_Query-1a1b27?style=flat-square&logoColor=A78BFA)
+![SQL](https://img.shields.io/badge/-SQL-1a1b27?style=flat-square&logo=postgresql&logoColor=4479A1)
+
+<a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 🏠 House Price Prediction
+
+A regression model that predicts housing prices from historical property data — built to demonstrate an end-to-end ML workflow from raw data to a working prediction model.
+
+- Cleaned and engineered features from raw property data
+- Trained and tuned an **XGBoost** regression model
+- Evaluated performance using RMSE / R² to validate prediction accuracy
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/-Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB)
+![Pandas](https://img.shields.io/badge/-Pandas-1a1b27?style=flat-square&logo=pandas&logoColor=150458)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-1a1b27?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![XGBoost](https://img.shields.io/badge/-XGBoost-1a1b27?style=flat-square&logoColor=A78BFA)
+
+<a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 💰 Loan Status Prediction
+
+A machine learning classification model that automates loan eligibility decisions — built to reduce manual review time and remove inconsistent human bias from approvals.
+
+- Preprocessed applicant data (income, credit history, loan amount, etc.)
+- Trained a classification model to predict loan approval status
+- Focused on interpretability so results are easy to explain to non-technical stakeholders
+
+**Tech Stack:**
+![Python](https://img.shields.io/badge/-Python-1a1b27?style=flat-square&logo=python&logoColor=3776AB)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-1a1b27?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![Pandas](https://img.shields.io/badge/-Pandas-1a1b27?style=flat-square&logo=pandas&logoColor=150458)
+
+<a href="#"><img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+</td>
+</tr>
+<tr>
+<td width="100%" align="center">
+
+**➕ More projects coming soon** — actively building new dashboards & ML projects. Check back often!
+
+</td>
+</tr>
+</table>
+
+> 💡 *Replace each `href="#"` above with your actual GitHub repo link (e.g. `https://github.com/mohsinswengpy/superstore-sales-analysis-powerbi`).*
 
 <br/>
 
