@@ -1,131 +1,167 @@
-<h1 align="center">Hi there, I'm Mohsin Khan 👋</h1>
-<h3 align="center">Software Engineer & Data Analyst — Turning Raw Data into Real Decisions</h3>
-
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineer+%7C+Data+Analyst;Python+%2B+SQL+%2B+Power+BI;Building+Dashboards+That+Tell+a+Story;Always+Learning%2C+Always+Building" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  💻 Software Engineer passionate about turning messy, real-world data into clear, actionable insight.<br/>
-  📊 I work with <b>Python</b>, <b>SQL</b>, and <b>Power BI</b> to analyze data, build dashboards, and automate reporting workflows.<br/>
-  🤖 Currently exploring: data pipelines, machine learning fundamentals, and interactive data storytelling.<br/>
-  🌱 Growing one dataset — and one project — at a time.
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile%20Views&color=2E9EF7&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/mohsinswengpy?label=Followers&style=flat&color=2E9EF7" alt="followers" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="linkedin" />
-  </a>
-  <a href="mailto:mohsin161955@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="28" alt="email" />
-  </a>
-</p>
-
----
-
-### 🧰 Tech Stack
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,postgres,mysql,powerbi,git,vscode,aws,docker" height="55" alt="skills" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E9EF7,100:6C63FF&height=220&section=header&text=Hi%20👋,%20I'm%20Mohsin%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20Data%20Analyst&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Python+%2B+SQL+%2B+Power+BI;Turning+Raw+Data+Into+Real+Decisions;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile%20Views&color=2E9EF7&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/github/followers/mohsinswengpy?label=Followers&style=for-the-badge&color=6C63FF" alt="followers" />
+
+<a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+<a href="mailto:mohsin161955@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+
 </div>
 
-<p align="center"><b>Data & Machine Learning</b></p>
+<br/>
+
+## 👨‍🎓 About Me
+
+```yaml
+name: Mohsin Khan
+role: Software Engineering Student & Data Analyst in the making
+focus: Python · SQL · Power BI · Data Visualization
+currently_learning: [Data Pipelines, Machine Learning Fundamentals, Cloud (AWS)]
+goal: Build clean, decision-ready dashboards and data-driven products
+fun_fact: One dataset — and one project — at a time 🚀
+```
+
+- 🔭 I'm currently building a portfolio of **data analytics & ML projects**
+- 📊 I love turning messy, real-world data into **clear, actionable dashboards**
+- 🌱 Growing my skills in **data pipelines** and **interactive storytelling**
+- 💬 Ask me about **Power BI, DAX, SQL, and Python for data analysis**
+- 📫 Reach me at **mohsin161955@gmail.com**
+
+<br/>
+
+## 🧰 Tech Stack
+
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="45" alt="pandas" title="Pandas" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="45" alt="numpy" title="NumPy" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="45" alt="matplotlib" title="Matplotlib" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="45" alt="plotly" title="Plotly" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=sklearn" height="45" alt="scikit-learn" title="Scikit-learn" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="45" alt="jupyter" title="Jupyter" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="45" alt="tensorflow" title="TensorFlow" />
+
+**Languages & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=py,postgres,mysql,git,vscode,aws,docker,github" height="50" alt="skills" />
+
+<br/><br/>
+
+**Data & Machine Learning**
+<br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="42" title="Pandas" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" title="NumPy" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="42" title="Matplotlib" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plotly/plotly-original.svg" height="42" title="Plotly" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" height="42" title="Scikit-learn" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="42" title="Jupyter" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="42" title="TensorFlow" />
+
+<br/><br/>
+
+**Reporting & Business Intelligence**
+<br/>
+<img src="https://skillicons.dev/icons?i=powerbi" height="42" title="Power BI" />&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=tableau" height="42" title="Tableau" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="42" title="Excel" />
+
 </div>
 
-<p align="center"><b>Reporting & Business Intelligence</b></p>
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=powerbi" height="45" alt="powerbi" title="Power BI" />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=tableau" height="45" alt="tableau" title="Tableau" />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg" height="45" alt="excel" title="Excel" />
-</div>
+<br/>
 
----
+## 🚀 Featured Projects
 
-### 🚀 Featured Projects
-
-<table align="center">
+<table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <b>🏠 House Price Prediction</b><br/>
-      Regression model using XGBoost to predict housing prices from historical property data.<br/>
-      <sub><b>Tools:</b> Python, Pandas, Scikit-learn, XGBoost</sub>
+      <h3>📈 Superstore Sales Analysis Dashboard</h3>
+      A 4-page interactive Power BI dashboard analyzing global e-commerce sales — revenue trends, product performance, customer/region insights, and shipping operations.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/DAX-2E9EF7?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Power_Query-6C63FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <b>💰 Loan Status Prediction</b><br/>
-      ML classification model that automates loan eligibility decisions, reducing manual bias and speeding up approvals.<br/>
-      <sub><b>Tools:</b> Python, Scikit-learn, Pandas</sub>
+      <h3>🏠 House Price Prediction</h3>
+      Regression model using XGBoost to predict housing prices from historical property data, with feature engineering and model evaluation.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/XGBoost-0E7C61?style=flat-square"/>
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <b>📈 Superstore Sales Analysis Dashboard</b><br/>
-      Multi-page Power BI dashboard analyzing global e-commerce sales — covering revenue trends, product performance, and customer/region insights.<br/>
-      <sub><b>Tools:</b> Power BI, Power Query, DAX, SQL</sub>
+      <h3>💰 Loan Status Prediction</h3>
+      ML classification model that automates loan eligibility decisions — reducing manual bias and speeding up approvals.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <br/><br/>
+      <a href="#"><img src="https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <b>➕ More projects coming soon</b><br/>
-      Actively building out new dashboards and ML projects — check back often!
+      <h3>➕ More Coming Soon</h3>
+      Actively building new dashboards and ML projects — check back often for updates!
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Status-In_Progress-yellow?style=flat-square"/>
     </td>
   </tr>
 </table>
 
----
+<br/>
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&theme=dracula&hide_border=true" height="165" alt="top langs" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="top langs" />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohsinswengpy&theme=dracula&hide_border=true&border_radius=8" height="165" alt="streak" />
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=mohsinswengpy&theme=tokyonight&hide_border=true&border_radius=8" height="165" alt="streak" />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mohsinswengpy&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="120" alt="trophies" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=mohsinswengpy&theme=tokyonight&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="120" alt="trophies" />
+</div>
 
----
+<br/>
 
-### 📈 Contribution Activity
+## 📈 Contribution Activity
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinswengpy&theme=react-dark&hide_border=true" alt="activity graph" />
-</p>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinswengpy&theme=tokyo-night&hide_border=true" alt="activity graph" width="90%"/>
+</div>
 
----
+<br/>
 
-### 🌐 Let's Connect
+## 🌐 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8" target="_blank">LinkedIn</a> ·
-  <a href="mailto:mohsin161955@gmail.com">Email</a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" />
-</p>
+<a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohsin161955@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<i>"Data is only powerful when it's understood — that's what I build for."</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:2E9EF7&height=100&section=footer" width="100%"/>
