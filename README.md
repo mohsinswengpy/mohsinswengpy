@@ -1,29 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,50:6c63ff,100:00d9ff&height=150&section=header" width="100%"/>
+<!-- PREMIUM LIVE BUBBLE WAVING HEADER -->
+<img src="https://vercel.app" width="100%"/>
 
 </div>
 
 <br/>
 
-<table>
+<!-- PREMIUM PROFILE CARD WITH BUBBLE GRADIENT EFFECTS -->
+<div align="center">
+<table border="0" cellpadding="15" cellspacing="0" width="100%" style="border-collapse: collapse; background: linear-gradient(135deg, rgba(31,78,121,0.1) 0%, rgba(108,99,255,0.1) 50%, rgba(0,217,255,0.1) 100%); border-radius: 16px; backdrop-filter: blur(10px); box-shadow: 0 8px 32px 0 rgba(0, 0, 0, 0.37); border: 1px solid rgba(255, 255, 255, 0.1);">
 <tr>
-<td width="30%" align="center">
-
-<img src="assets/profile.png" width="220" style="border-radius:50%; border:4px solid #6c63ff;" alt="Mohsin Khan"/>
-
+<td width="35%" align="center" style="padding: 20px;">
+  <div style="position: relative; display: inline-block;">
+    <img src="assets/profile.png" width="180" style="border-radius:50%; border:4px solid #6c63ff; box-shadow: 0 0 20px rgba(108, 99, 255, 0.6);" alt="Mohsin Khan"/>
+  </div>
 </td>
-<td width="70%">
+<td width="65%" style="padding: 20px; text-align: left; vertical-align: middle;">
 
-<h1>Hi, I'm Mohsin Khan 👋</h1>
+<h1 style="color: #00d9ff; margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Hi, I'm Mohsin Khan 👋</h1>
+<br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=false&vCenter=true&width=550&lines=Aspiring+Network+Engineer+%F0%9F%8C%90;Cisco+Routing+%26+Switching+Enthusiast;RSTP+%7C+LACP+%7C+VLAN+%7C+Port+Security;Building+Redundant+Campus+Networks;Learning+CCNA+%7C+Automating+with+Python" alt="Typing SVG" />
+<img src="https://demolab.com" alt="Typing SVG" />
 
-📍 Pakistan &nbsp;|&nbsp; 🎓 CSE Student @ AWKUM &nbsp;|&nbsp; 🎯 CCNA Candidate
+<p style="font-size: 15px; color: #a0aec0; margin-top: 15px;">
+  📍 <b>Pakistan</b> &nbsp;•&nbsp; 🎓 <b>CSE Student @ AWKUM</b> &nbsp;•&nbsp; 🎯 <b>CCNA Candidate</b>
+</p>
 
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
@@ -59,19 +66,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<!-- REWORKED TO TOKYONIGHT HIGH CONTRAST WITH TRANSLUCENT PREMIUM LAYOUT -->
+<img src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinswengpy&theme=tokyonight&hide_border=true" width="70%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mohsinswengpy&theme=tokyonight&hide_border=true" width="75%"/>
 
 </div>
 
-<br/>
-
-<br/>
+<br/><br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d9ff,50:6c63ff,100:1f4e79&height=100&section=footer" width="100%"/>
+<!-- PREMIUM BUBBLE GRADIENT FOOTER CLOSURE -->
+<img src="https://vercel.app" width="100%"/>
 </div>
