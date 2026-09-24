@@ -1,12 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,50:6c63ff,100:00d9ff&height=200&section=header&text=Hi%20There,%20I'm%20Mohsin%20Khan&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Network%20Engineer%20in%20the%20Making%20%7C%20CCNA%20Candidate&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4e79,50:6c63ff,100:00d9ff&height=150&section=header" width="100%"/>
+
+</div>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Aspiring+Network+Engineer+%F0%9F%8C%90;Cisco+Routing+%26+Switching+Enthusiast;RSTP+%7C+LACP+%7C+VLAN+%7C+Port+Security;Building+Redundant+Campus+Networks;Learning+CCNA+%7C+Automating+with+Python" alt="Typing SVG" />
+<table>
+<tr>
+<td width="30%" align="center">
 
-</div>
+<img src="assets/profile.png" width="220" style="border-radius:50%; border:4px solid #6c63ff;" alt="Mohsin Khan"/>
+
+</td>
+<td width="70%">
+
+<h1>Hi, I'm Mohsin Khan 👋</h1>
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=6C63FF&center=false&vCenter=true&width=550&lines=Aspiring+Network+Engineer+%F0%9F%8C%90;Cisco+Routing+%26+Switching+Enthusiast;RSTP+%7C+LACP+%7C+VLAN+%7C+Port+Security;Building+Redundant+Campus+Networks;Learning+CCNA+%7C+Automating+with+Python" alt="Typing SVG" />
+
+📍 Pakistan &nbsp;|&nbsp; 🎓 CSE Student @ AWKUM &nbsp;|&nbsp; 🎯 CCNA Candidate
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -52,18 +69,6 @@
 </div>
 
 <br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/dist/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/dist/github-contribution-grid-snake.svg" />
-  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/dist/github-contribution-grid-snake-rainbow.gif" width="100%"/>
-</picture>
-
-</div>
 
 <br/>
 
