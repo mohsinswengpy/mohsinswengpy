@@ -1,79 +1,64 @@
 <div align="center">
 
-<!-- PROFESSIONAL ANIMATED NETWORK HEADER -->
-<img src="https://vercel.app•%20CCNA%20Candidate&descSize=18&descAlignY=62" width="100%"/>
+<!-- 🌌 LIVE ANIMATED BUBBLE & TECH NETWORK HEADER -->
+<img src="https://vercel.app🌐&descSize=20&descAlignY=65" width="100%"/>
 
 <br/>
 
-<!-- DYNAMIC SKILLS TYPING EFFECT -->
-<img src="https://demolab.com" alt="Typing SVG" />
+<!-- ⚡ LIVE DYNAMIC TYPING TIMELINE ENGINE -->
+<img src="https://demolab.com" alt="Live Typing SVG" />
 
 <p align="center">
-  🌐 <b>Network Enthusiast</b> &nbsp;|&nbsp; 🎓 <b>CSE Student @ AWKUM</b> &nbsp;|&nbsp; 📍 <b>Pakistan</b>
+  🎓 <b>CSE Student @ AWKUM</b> &nbsp;•&nbsp; 🎯 <b>Active CCNA Candidate</b> &nbsp;•&nbsp; 📍 <b>Pakistan</b>
 </p>
 
-<!-- SOCIAL CONNECT BUTTONS -->
-<p align="center">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:mohsin161955@gmail.com">
-    <img src="https://shields.io" alt="Email"/>
-  </a>
-</p>
+---
 
 </div>
 
-<br/>
-
-## 🎯 Professional Objective
-> *Computer Software Engineering student passionately specialized in **Cisco enterprise infrastructures**. Actively building, securing, and automating redundant campus networks while actively tracking toward full **CCNA certification**.*
+## 🎯 Profile Objective & Current Focus
+> *Computer Software Engineering student at **Abdul Wali Khan University Mardan** passionately specialized in building enterprise-grade internet protocol architectures. Actively deploying resilient campus topographies, configuring network security, and writing automation nodes.*
 
 ---
 
-## ⚡ Network Engineering Focus & Core Skills
+## ⚡ Active Technical Implementations
 
-### 🌐 Core Networking Protocols
-* **Switching Concepts:** VLANs, Inter-VLAN Routing, STP / Rapid Spanning Tree (**RSTP**), Link Aggregation (**LACP EtherChannel**), and Port Security rules.
-* **Routing Architectures:** Open Shortest Path First (**OSPF**), Static Routing, and TCP/IP subnetting.
-* **Infrastructure Design:** Designing end-to-end robust corporate frameworks inside **Cisco Packet Tracer**.
+### 🌐 Core Network Core Infrastructure (Cisco Systems)
+* **Redundancy Nodes:** Stress-testing core switches using Rapid Spanning Tree Protocol (**RSTP**) and Link Aggregation (**LACP EtherChannel**).
+* **Logical Segmentations:** Building isolated enterprise broadcast domains using advanced **VLANs**, Inter-VLAN Routing sub-interfaces, and secure **Port Security** mappings.
+* **Dynamic Routing Engines:** Designing scalable layouts running Open Shortest Path First (**OSPF**), Static multi-point routing, and heavy VLSM subnetting.
 
-### 🛠️ Automation & Systems
-* **Network Automation:** Developing **Python** scripts to automate repetitive configuration tasks.
-* **OS Administration:** Foundational systems configuration and management using **Linux**.
-* **Hardware Integration:** Setting up and deploying smart **IP CCTV & NVR** surveillance network links.
-
----
-
-## 🧰 Tech Stack Toolkit
-
-### 🔧 Networking & Hardware
-<p align="left">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
-
-### 💻 Software & Scripting
-<p align="left">
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-  <img src="https://shields.io"/>
-</p>
+### 🐍 Automation, System Operations & Tools
+* **Programmable Infrastructure:** Architecting **Python** script workflows to rapidly automate multi-device platform configurations.
+* **Server Administrations:** Configuring background services and shell architectures within **Linux** core distros.
+* **Surveillance Engineering:** Deploying physical layer **IP CCTV & NVR** edge nodes into logical local area networks.
 
 ---
 
-## 📊 GitHub Analytics
+## 🧰 Enterprise Tech Stack Engine
+
+* **Routing & Switching:** Cisco iOS • Packet Tracer • TCP/IP Protocol Suite • OSPF Engine • RSTP Frameworks • LACP Trunking • Wireshark Diagnostics
+* **Automation Engineering:** Python Core Scripting • Bash Shell Automation
+* **Systems Matrix:** Linux Core Deployment • Windows Infrastructure Basics
+* **Version Governance:** Git Platform • Enterprise GitHub Architecture
+
+---
+
+## 📊 Live System Analytics & Statistics
 
 <div align="center">
 
-<img src="https://vercel.app" height="160"/>
-<img src="https://vercel.app" height="160"/>
+<!-- LIVE TRACKING METRICS CARDS -->
+<table border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td><img src="https://vercel.app" height="180"/></td>
+    <td><img src="https://vercel.app" height="180"/></td>
+  </tr>
+</table>
 
 <br/>
 
+<!-- LIVE CODE STREAK MATRIX -->
 <img src="https://herokuapp.com" width="100%"/>
 
 </div>
@@ -82,7 +67,7 @@
 
 <div align="center">
 
-<!-- CLEAN TECH CLOSURE BANNER -->
+<!-- 🌊 LIVE ANIMATED FOOTER ENGINE -->
 <img src="https://vercel.app" width="100%"/>
 
 </div>
