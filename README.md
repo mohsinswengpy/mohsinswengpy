@@ -29,17 +29,10 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
 
           outputs: |
-            # Default light theme
             dist/github-contribution-grid-snake.svg
-
-            # GitHub dark theme
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-            # Premium gold theme
-            dist/github-contribution-grid-snake-gold.gif?color_snake=gold&color_dots=#1a1b27,#3d3f63,#6c63ff,#a78bfa,#ffd93d
-
-            # Rainbow theme
             dist/github-contribution-grid-snake-rainbow.gif?color_snake=%23ffffff&color_dots=#ff6b6b,#ffd93d,#6bcb77,#4d96ff,#a78bfa
+            dist/github-contribution-grid-snake-neon.gif?color_snake=%2300ffff&color_dots=#0d1117,#39d353,#26a641,#00b7ff,#ff2079
 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
