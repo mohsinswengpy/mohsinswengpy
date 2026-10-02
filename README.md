@@ -160,11 +160,15 @@ graph LR
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7B2FF7,100:049FD9&height=3&section=header" width="60%" />
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake.svg" />
+  <img alt="Neon contribution snake" src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake-dark.svg" />
 </picture>
+
+<sub>🐍 This snake eats my commits. Every colored square is a lab I built.</sub>
 
 </div>
 
