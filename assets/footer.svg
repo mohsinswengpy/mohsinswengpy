@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180" width="1200" height="180">
+  <defs>
+    <linearGradient id="w1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7B2FF7"/><stop offset="100%" stop-color="#049FD9"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <path fill="url(#w1)" fill-opacity="0.25" d="M0,100 C150,50 450,150 600,100 C750,50 1050,150 1200,100 C1350,50 1650,150 1800,100 C1950,50 2250,150 2400,100 L2400,180 L0,180 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="14s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#w1)" fill-opacity="0.4" d="M0,115 C150,65 450,165 600,115 C750,65 1050,165 1200,115 C1350,65 1650,165 1800,115 C1950,65 2250,165 2400,115 L2400,180 L0,180 Z">
+    <animateTransform attributeName="transform" type="translate" from="-1200 0" to="0 0" dur="9s" repeatCount="indefinite"/>
+  </path>
+  <path fill="url(#w1)" fill-opacity="0.7" d="M0,135 C150,95 450,175 600,135 C750,95 1050,175 1200,135 C1350,95 1650,175 1800,135 C1950,95 2250,175 2400,135 L2400,180 L0,180 Z">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="6s" repeatCount="indefinite"/>
+  </path>
+
+  <g transform="translate(600,62)" font-family="'Segoe UI', Helvetica, Arial, sans-serif" text-anchor="middle">
+    <text x="0" y="-22" font-size="20" fill="#9fd8f5">Thanks for visiting</text>
+    <g transform="translate(0,14)" filter="url(#glow)">
+      <g>
+        <animateTransform attributeName="transform" type="scale" values="1;1.3;1;1.2;1" keyTimes="0;0.15;0.3;0.45;1" dur="1.4s" repeatCount="indefinite"/>
+        <path transform="translate(-16,-16) scale(1.33)" fill="#ff4d8d" d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
+      </g>
+    </g>
+  </g>
+</svg>
