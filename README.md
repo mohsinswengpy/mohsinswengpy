@@ -1,42 +1,183 @@
 <div align="center">
 
-  <!-- Colorful Animated Gradient Header with Typing/Fade Effect -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,25,30,35&height=180&section=header&text=Mohsin%20Khan&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20Student%20|%20Aspiring%20Network%20Engineer&descSize=20&descAlignY=62" width="100%" />
+<img src="assets/banner.svg" alt="Mohsin Khan - Aspiring Network Engineer" width="100%" />
 
-  <!-- Live Animated Typing Header Text -->
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=049FD9&center=true&vCenter=true&width=600&height=50&lines=Software+Engineering+Student+%F0%9F%92%BB;Aspiring+Network+Engineer+%F0%9F%C%90;CCNA+%26+Cloud+Networking+Enthusiast+%E2%9A%A1;Building+Networks+from+the+Ground+Up+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=049FD9&center=true&vCenter=true&width=700&height=50&lines=Building+Networks+from+the+Ground+Up;Designing+Secure+and+Redundant+Networks;CCNA+Path+%E2%86%92+Network+Automation+%E2%86%92+Cloud;Open+to+Freelance+Network+Projects" alt="Typing SVG" /></a>
 
-  <!-- Quick Info Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/Status-Building%20Networks-blueviolet?style=for-the-badge&logo=cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/Focus-CCNA%20%7C%20Cloud%20%7C%20Security-informational?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-    <img src="https://img.shields.io/badge/Degree-Software%20Engineering-success?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </p>
+<br>
+
+<img src="https://img.shields.io/badge/Cisco-Packet%20Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/Focus-CCNA%20%7C%20Automation%20%7C%20Security-7B2FF7?style=for-the-badge&logo=gnometerminal&logoColor=white" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=for-the-badge&logo=upwork&logoColor=white" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://mastodon.social/@Mohsin"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
+<a href="https://www.facebook.com/share/p/1BsUQF93ku/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 </div>
 
 ---
 
-# 💫 About Me:
-Software Engineering Student | Aspiring Network Engineer<br><br>I'm building a strong foundation in networking — from understanding how data physically moves across systems to designing networks that are reliable, secure, and scalable.<br><br>Currently pursuing CCNA (Cisco Certified Network Associate), with a growing focus on network fundamentals, routing, switching, and IP connectivity. My goal is to build toward CCNP and eventually specialize in network security and cloud networking — combining classic infrastructure skills with the direction the industry is heading.<br><br>Core Focus:<br><br>📌 **Networking Fundamentals** — OSI Model, TCP/IP, Subnetting, Routing & Switching<br>📌 **Tools** — Cisco Packet Tracer, hands-on lab simulations<br>📌 **Next Steps** — CCNP, Cloud Networking (AWS/Azure), Network Security<br><br>🚀 **Currently:** Building my networking foundation from the ground up, with hands-on practice through Packet Tracer labs and real-world topology exercises.
+## 👨‍💻 About Me
 
+I'm a **Software Engineering student** building a career in **network engineering**. I design networks that are **reliable, secure and scalable**, and I learn by building: every concept becomes a hands-on lab with documented configs and verification.
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/share/p/1BsUQF93ku/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/www.linkedin.com/in/mohsin-khan-2002ba3a8) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohsin) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohsin161955@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Mohsin&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=Mohsin&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Mohsin&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohsin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohsin&limit=5&theme=dark&combine_all_yearly_contributions=true)
+| | |
+|---|---|
+| 🎯 **Goal** | CCNA → CCNP, then Network Automation and Cloud Networking |
+| 🔭 **Currently** | Enterprise labs in Cisco Packet Tracer, moving to GNS3 + Python (Netmiko) |
+| 🌱 **Next** | BGP, DMVPN, Network Automation, Monitoring (Zabbix / Grafana) |
+| 💼 **Open to** | Junior network roles, internships and freelance lab / config work |
 
 ---
-[![](https://komarev.com/ghpvc/?username=Mohsin&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🌐 Featured Project
+
+### 🏢 Enterprise Multi-Branch Network: Lahore HQ ↔ Islamabad Branch
+
+```mermaid
+graph LR
+    subgraph Lahore_HQ["Lahore Head Office"]
+        PC["VLAN 10 / 20 / 30"] --- SW["Core Switches<br/>LACP EtherChannel"]
+        SW --- R1["R1-HQ<br/>HSRP Active"]
+        SW --- R2["R2-HQ<br/>HSRP Standby"]
+    end
+    R1 ---|"200.1.1.0/30"| ISP(("R-ISP"))
+    ISP ---|"200.2.2.0/30"| RB["R-Islamabad"]
+    RB --- LAN["192.168.40.0/24"]
+    R1 -. "Site-to-Site IPsec VPN" .- RB
+```
+
+**Highlights:** VLAN segmentation · Router-on-a-Stick · HSRP high availability · OSPF · LACP EtherChannel · DHCP · NAT/PAT with VPN exemption · Extended ACLs · Port Security · SSH · Site-to-Site IPsec VPN
+
+---
+
+## 📂 Projects
+
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/mohsinswengpy/-Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=-Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture&theme=radical&hide_border=true" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/mohsinswengpy/OSPF-Multi-Area-Routing-Cisco-Packet-Tracer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=OSPF-Multi-Area-Routing-Cisco-Packet-Tracer&theme=radical&hide_border=true" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/mohsinswengpy/OSPF-Dynamic-Routing-Failover">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=OSPF-Dynamic-Routing-Failover&theme=radical&hide_border=true" />
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/mohsinswengpy/vlan-segmentation-trunking-lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=vlan-segmentation-trunking-lab&theme=radical&hide_border=true" />
+</a>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<a href="https://github.com/mohsinswengpy/dhcp-nat-acl-networking-lab">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=dhcp-nat-acl-networking-lab&theme=radical&hide_border=true" />
+</a>
+</td>
+<td width="50%">
+
+| Skill area | Covered in |
+|---|---|
+| Switching | VLAN, Trunking, EtherChannel |
+| Routing | OSPF Multi-Area, Failover |
+| Redundancy | HSRP, Dual paths |
+| Services | DHCP, NAT/PAT, ACL |
+| Security | Port Security, SSH, IPsec |
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,cs,cpp,js,html,css,mysql,aws,azure,github,git,linux,vscode&perline=13" />
+
+<br><br>
+
+![Cisco](https://img.shields.io/badge/Cisco_IOS-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![OSPF](https://img.shields.io/badge/OSPF-0A66C2?style=for-the-badge)
+![VLAN](https://img.shields.io/badge/VLAN-7B2FF7?style=for-the-badge)
+![HSRP](https://img.shields.io/badge/HSRP-E91E63?style=for-the-badge)
+![IPsec VPN](https://img.shields.io/badge/IPsec_VPN-00C853?style=for-the-badge)
+![NAT](https://img.shields.io/badge/NAT%2FPAT-FF9800?style=for-the-badge)
+![ACL](https://img.shields.io/badge/ACL-F44336?style=for-the-badge)
+
+</div>
+
+---
+
+## 🚀 Roadmap
+
+| Status | Goal |
+|:---:|---|
+| ✅ | CCNA-level labs: VLAN, OSPF, HSRP, NAT, ACL, IPsec VPN |
+| 🔄 | Python network automation with Netmiko (ConfigGuardian) |
+| 🔄 | CCNA certification |
+| ⏳ | BGP + multi-site WAN (BGP-Bridge) |
+| ⏳ | Monitoring with Zabbix / Grafana (NetPulse) |
+| ⏳ | Firewall and security lab (FortressNet) |
+| ⏳ | CCNP and Cloud Networking (AWS / Azure) |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&theme=radical&hide_border=true" />
+
+<img src="https://streak-stats.demolab.com/?user=mohsinswengpy&theme=radical&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinswengpy&bg_color=0d1117&color=049FD9&line=7B2FF7&point=ffffff&area=true&area_color=7B2FF7&hide_border=true" width="100%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohsinswengpy&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake.svg" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Need a network designed, configured or troubleshot? Let's connect!
+
+<a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Message_Me-049FD9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile+Views&color=049FD9&style=flat-square" />
+
+<img src="assets/footer.svg" alt="footer" width="100%" />
+
+</div>
