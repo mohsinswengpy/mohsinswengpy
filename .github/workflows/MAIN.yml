@@ -2,33 +2,42 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # runs once a day at midnight UTC
-  workflow_dispatch: {}    # lets you trigger it manually from the Actions tab
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
-      - main               # regenerate whenever you push to main
+      - main
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
-      - name: Generate snake animation
-        uses: Platane/snk@v3
-        id: snake-gif
+      - name: Generate custom neon snake
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake-gold.gif?color_snake=gold&color_dots=#1a1b27,#3d3f63,#6c63ff,#a78bfa,#ffd93d
-            dist/github-contribution-grid-snake-rainbow.gif?color_snake=%23ffffff&color_dots=#ff6b6b,#ffd93d,#6bcb77,#4d96ff,#a78bfa
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            dist/github-snake.svg?color_snake=#ff2d87&color_dots=#ebedf0,#c9ecf9,#7fd0f0,#049FD9,#7B2FF7
+            dist/github-snake-dark.svg?color_snake=#ff4d8d&color_dots=#161b22,#0e4a63,#0a7aa6,#00c8ff,#9d5cff
 
-      - name: Push snake animation to output branch
-        uses: crazy-max/ghaction-github-pages@v4
+      - name: Add neon glow
+        run: |
+          for f in dist/github-snake.svg dist/github-snake-dark.svg; do
+            if grep -q '<svg[^>]*style=' "$f"; then
+              echo "style already present in $f, skipping"
+            elif [ "$f" = "dist/github-snake-dark.svg" ]; then
+              sed -i '0,/<svg/s//<svg style="filter:drop-shadow(0 0 3px rgba(157,92,255,0.9))"/' "$f"
+            else
+              sed -i '0,/<svg/s//<svg style="filter:drop-shadow(0 0 2px rgba(4,159,217,0.6))"/' "$f"
+            fi
+          done
+
+      - name: Push to the output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
