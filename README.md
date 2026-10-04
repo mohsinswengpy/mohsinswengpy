@@ -24,17 +24,7 @@
 
 ### 🏢 Enterprise Multi-Branch Network: Lahore HQ ↔ Islamabad Branch
 
-```mermaid
-graph LR
-    subgraph Lahore_HQ["Lahore Head Office"]
-        PC["VLAN 10 / 20 / 30"] --- SW["Core Switches<br/>LACP EtherChannel"]
-        SW --- R1["R1-HQ<br/>HSRP Active"]
-        SW --- R2["R2-HQ<br/>HSRP Standby"]
-    end
-    R1 ---|"200.1.1.0/30"| ISP(("R-ISP"))
-    ISP ---|"200.2.2.0/30"| RB["R-Islamabad"]
-    RB --- LAN["192.168.40.0/24"]
-    R1 -. "Site-to-Site IPsec VPN" .- RB
+<img src="featured-map.svg" alt="Enterprise Multi-Branch Network map" width="100%" />
 ```
 
 **Highlights:** VLAN segmentation · Router-on-a-Stick · HSRP high availability · OSPF · LACP EtherChannel · DHCP · NAT/PAT with VPN exemption · Extended ACLs · Port Security · SSH · Site-to-Site IPsec VPN
