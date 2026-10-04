@@ -15,17 +15,9 @@
 
 ---
 
-## 👨‍💻 About Me
+<img src="h-about.svg" alt="About Me" width="100%" />
 
-I'm a **Software Engineering student** building a career in **network engineering**. I design networks that are **reliable, secure and scalable**, and I learn by building: every concept becomes a hands-on lab with documented configs and verification.
-
-| | |
-|---|---|
-| 🎯 **Goal** | CCNA → CCNP, then Network Automation and Cloud Networking |
-| 🔭 **Currently** | Enterprise labs in Cisco Packet Tracer, moving to GNS3 + Python (Netmiko) |
-| 🌱 **Next** | BGP, DMVPN, Network Automation, Monitoring (Zabbix / Grafana) |
-| 💼 **Open to** | Junior network roles, internships and freelance lab / config work |
-
+<img src="about.svg" alt="About Mohsin Khan" width="100%" />
 ---
 
 ## 🌐 Featured Project
@@ -50,54 +42,22 @@ graph LR
 ---
 
 ## 📂 Projects
+<img src="h-projects.svg" alt="Projects" width="100%" />
 
 <table>
 <tr>
-<td width="50%">
-<a href="https://github.com/mohsinswengpy/-Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=-Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture&bg_color=0d1117&title_color=049FD9&text_color=c9d1d9&icon_color=7B2FF7&border_color=1f2a44" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/mohsinswengpy/OSPF-Multi-Area-Routing-Cisco-Packet-Tracer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=OSPF-Multi-Area-Routing-Cisco-Packet-Tracer&bg_color=0d1117&title_color=049FD9&text_color=c9d1d9&icon_color=7B2FF7&border_color=1f2a44" />
-</a>
-</td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/-Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture"><img src="p1-enterprise.svg" alt="Enterprise Multi-Branch Network" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/OSPF-Multi-Area-Routing-Cisco-Packet-Tracer"><img src="p2-ospf-multiarea.svg" alt="OSPF Multi-Area Routing" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/mohsinswengpy/OSPF-Dynamic-Routing-Failover">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=OSPF-Dynamic-Routing-Failover&bg_color=0d1117&title_color=049FD9&text_color=c9d1d9&icon_color=7B2FF7&border_color=1f2a44" />
-</a>
-</td>
-<td width="50%">
-<a href="https://github.com/mohsinswengpy/vlan-segmentation-trunking-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=vlan-segmentation-trunking-lab&bg_color=0d1117&title_color=049FD9&text_color=c9d1d9&icon_color=7B2FF7&border_color=1f2a44" />
-</a>
-</td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/OSPF-Dynamic-Routing-Failover"><img src="p3-ospf-failover.svg" alt="OSPF Dynamic Routing Failover" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/vlan-segmentation-trunking-lab"><img src="p4-vlan.svg" alt="VLAN Segmentation and Trunking" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%">
-<a href="https://github.com/mohsinswengpy/dhcp-nat-acl-networking-lab">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=mohsinswengpy&repo=dhcp-nat-acl-networking-lab&bg_color=0d1117&title_color=049FD9&text_color=c9d1d9&icon_color=7B2FF7&border_color=1f2a44" />
-</a>
-</td>
-<td width="50%">
-
-| Skill area | Covered in |
-|---|---|
-| Switching | VLAN, Trunking, EtherChannel |
-| Routing | OSPF Multi-Area, Failover |
-| Redundancy | HSRP, Dual paths |
-| Services | DHCP, NAT/PAT, ACL |
-| Security | Port Security, SSH, IPsec |
-
-</td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/dhcp-nat-acl-networking-lab"><img src="p5-services.svg" alt="DHCP, NAT and ACL Networking Lab" width="100%" /></a></td>
+<td width="50%"><img src="p6-configguardian.svg" alt="ConfigGuardian: network automation, coming soon" width="100%" /></td>
 </tr>
 </table>
-
----
-
 ## 🛠️ Tech Stack
 
 <div align="center">
