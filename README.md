@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Mohsin Khan - Network Engineer | Cisco Routing & Switching | OSPF, VLANs, Subnetting" width="100%" />
+<img src="banner.svg" alt="Mohsin Khan - Software Engineering Student | Aspiring Network Engineer" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=8FDCFF&center=true&vCenter=true&width=720&height=45&lines=Building+Networks+from+the+Ground+Up;Designing+Secure+and+Redundant+Networks;CCNA+Path+%E2%86%92+Network+Automation+%E2%86%92+Cloud;Open+to+Freelance+Network+Projects" alt="Typing SVG" /></a>
 
@@ -13,25 +13,24 @@
 
 </div>
 
----
+<br>
 
 <img src="h-about.svg" alt="About Me" width="100%" />
 
-<img src="about.svg" alt="About Mohsin Khan" width="100%" />
----
+<img src="about.svg" alt="About Mohsin Khan: Software Engineering student building a career in network engineering" width="100%" />
 
-## 🌐 Featured Project
+<br>
+
+<img src="h-featured.svg" alt="Featured Project" width="100%" />
 
 ### 🏢 Enterprise Multi-Branch Network: Lahore HQ ↔ Islamabad Branch
 
 <img src="featured-map.svg" alt="Enterprise Multi-Branch Network map" width="100%" />
-```
 
 **Highlights:** VLAN segmentation · Router-on-a-Stick · HSRP high availability · OSPF · LACP EtherChannel · DHCP · NAT/PAT with VPN exemption · Extended ACLs · Port Security · SSH · Site-to-Site IPsec VPN
 
----
+<br>
 
-## 📂 Projects
 <img src="h-projects.svg" alt="Projects" width="100%" />
 
 <table>
@@ -48,10 +47,30 @@
 <td width="50%"><img src="p6-configguardian.svg" alt="ConfigGuardian: network automation, coming soon" width="100%" /></td>
 </tr>
 </table>
+
+<br>
+
 <img src="h-stack.svg" alt="Tech Stack" width="100%" />
 
 <img src="tech-stack.svg" alt="Tech Stack: networking, programming, cloud and tools" width="100%" />
-## 📊 GitHub Stats
+
+<br>
+
+<img src="h-roadmap.svg" alt="Roadmap" width="100%" />
+
+| Status | Goal |
+|:---:|---|
+| ✅ | CCNA-level labs: VLAN, OSPF, HSRP, NAT, ACL, IPsec VPN |
+| 🔄 | Python network automation with Netmiko (ConfigGuardian) |
+| 🔄 | CCNA certification |
+| ⏳ | BGP + multi-site WAN (BGP-Bridge) |
+| ⏳ | Monitoring with Zabbix / Grafana (NetPulse) |
+| ⏳ | Firewall and security lab (FortressNet) |
+| ⏳ | CCNP and Cloud Networking (AWS / Azure) |
+
+<br>
+
+<img src="h-stats.svg" alt="GitHub Stats" width="100%" />
 
 <div align="center">
 
@@ -64,9 +83,9 @@
 
 </div>
 
----
+<br>
 
-## 🐍 Contribution Snake
+<img src="h-snake.svg" alt="Contribution Snake" width="100%" />
 
 <div align="center">
 
@@ -88,6 +107,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile+Views&color=049FD9&style=flat-square" />
 
-<img src="assets/footer.svg" alt="footer" width="100%" />
+<img src="footer.svg" alt="footer" width="100%" />
 
 </div>
