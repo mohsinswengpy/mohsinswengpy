@@ -58,41 +58,9 @@ graph LR
 <td width="50%"><img src="p6-configguardian.svg" alt="ConfigGuardian: network automation, coming soon" width="100%" /></td>
 </tr>
 </table>
-## 🛠️ Tech Stack
+<img src="h-stack.svg" alt="Tech Stack" width="100%" />
 
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=py,cs,cpp,js,html,css,mysql,aws,azure,github,git,linux,vscode&perline=13&theme=dark" />
-
-<br><br>
-
-![Cisco](https://img.shields.io/badge/Cisco_IOS-049FD9?style=flat-square&logo=cisco&logoColor=white)
-![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![OSPF](https://img.shields.io/badge/OSPF-0A66C2?style=flat-square)
-![VLAN](https://img.shields.io/badge/VLAN-7B2FF7?style=flat-square)
-![HSRP](https://img.shields.io/badge/HSRP-9D6BFF?style=flat-square)
-![IPsec VPN](https://img.shields.io/badge/IPsec_VPN-FF2D87?style=flat-square)
-![NAT](https://img.shields.io/badge/NAT%2FPAT-049FD9?style=flat-square)
-![ACL](https://img.shields.io/badge/ACL-7B2FF7?style=flat-square)
-
-</div>
-
----
-
-## 🚀 Roadmap
-
-| Status | Goal |
-|:---:|---|
-| ✅ | CCNA-level labs: VLAN, OSPF, HSRP, NAT, ACL, IPsec VPN |
-| 🔄 | Python network automation with Netmiko (ConfigGuardian) |
-| 🔄 | CCNA certification |
-| ⏳ | BGP + multi-site WAN (BGP-Bridge) |
-| ⏳ | Monitoring with Zabbix / Grafana (NetPulse) |
-| ⏳ | Firewall and security lab (FortressNet) |
-| ⏳ | CCNP and Cloud Networking (AWS / Azure) |
-
----
-
+<img src="tech-stack.svg" alt="Tech Stack: networking, programming, cloud and tools" width="100%" />
 ## 📊 GitHub Stats
 
 <div align="center">
