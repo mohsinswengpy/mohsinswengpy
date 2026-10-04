@@ -19,7 +19,7 @@
 
 <img src="about.svg" alt="About Mohsin Khan: Software Engineering student building a career in network engineering" width="100%" />
 
-<br>
+FEATURED PROJECT
 
 <img src="h-featured.svg" alt="Featured Project" width="100%" />
 
