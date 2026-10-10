@@ -15,13 +15,17 @@
 
 <br>
 
-<img src="h-about.svg" alt="About Me" width="100%" />
+<img src="h-glance.svg" alt="At a glance" width="100%" />
 
-<img src="about.svg" alt="About Mohsin Khan: Software Engineering student building a career in network engineering" width="100%" />
+<img src="glance.svg" alt="5 networking labs, 2 Power BI dashboards, 5 ML and data projects, 1 commercial desktop POS" width="100%" />
 
 <br>
 
-FEATURED PROJECT
+<img src="h-about.svg" alt="About me" width="100%" />
+
+<img src="whoami.svg" alt="Mohsin Khan: Software Engineering student building a career in network engineering" width="100%" />
+
+<br>
 
 <img src="h-featured.svg" alt="Featured Project" width="100%" />
 
@@ -33,7 +37,7 @@ FEATURED PROJECT
 
 <br>
 
-<img src="h-projects.svg" alt="Projects" width="100%" />
+<img src="h-projects.svg" alt="Networking Projects" width="100%" />
 
 <table>
 <tr>
@@ -157,6 +161,45 @@ FEATURED PROJECT
 **Status:** In development. The code will be published when it is finished.
 
 </details>
+
+<br>
+
+<img src="h-software.svg" alt="Desktop Software" width="100%" />
+
+### 💊 Sheraz Pharmacy POS: Desktop Software for a Real Pharmacy
+
+<img src="pos-card.svg" alt="Sheraz Pharmacy POS interface preview (illustration)" width="100%" />
+
+<div align="center">
+
+*A complete point-of-sale and inventory system that runs as a normal Windows program. No internet, no monthly fees.*
+
+</div>
+
+| | What it does |
+|---|---|
+| 🛒 | **Fast billing:** search a medicine, add it to the cart and print a PDF bill in seconds |
+| 🏷 | **Flexible pricing:** a default discount per medicine, and a custom price with a live price-variance indicator |
+| 📦 | **Inventory control:** stock, cost, price, expiry date and low-stock alerts |
+| 🔄 | **Sales returns:** return items against an invoice and the stock goes back automatically |
+| 📊 | **Live dashboard:** today's sales, gross profit and stock level at a glance |
+| 📑 | **Excel import and export:** move the medicine list in and out |
+| 💾 | **One-click backup** of the whole database |
+| 🌙 | **Modern dark interface** that is easy on the eyes during long shifts |
+
+**Built with:** `Python` · `PyQt6` · `SQLite` · `ReportLab` · `OpenPyXL`
+
+<details>
+<summary><b>🚧 What I am adding next</b></summary>
+
+- Customer accounts with credit (khata / udhar) tracking
+- Medicine substitute finder when an item is out of stock
+- Expiry loss prediction with clearance discount suggestions
+- Automatic reorder list and purchase orders for vendors
+
+</details>
+
+> 🔒 This is closed-source commercial software. The source code is not public.
 
 <br>
 
@@ -305,6 +348,7 @@ FEATURED PROJECT
 | Status | Goal |
 |:---:|---|
 | ✅ | CCNA-level labs: VLAN, OSPF, HSRP, NAT, ACL, IPsec VPN |
+| ✅ | Desktop software for a real business (Sheraz Pharmacy POS) |
 | 🔄 | Python network automation with Netmiko (ConfigGuardian) |
 | 🔄 | CCNA certification |
 | ⏳ | BGP + multi-site WAN (BGP-Bridge) |
@@ -345,7 +389,7 @@ FEATURED PROJECT
 
 <div align="center">
 
-### 🤝 Need a network designed, configured or troubleshot? Let's connect!
+### 🤝 Need a network designed, configured or troubleshot? Or custom business software? Let's connect!
 
 <a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Message_Me-049FD9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
