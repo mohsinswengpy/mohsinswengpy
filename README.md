@@ -19,7 +19,7 @@
 
 ### 📈 At a Glance
 
-![Networking Labs](https://img.shields.io/badge/Networking_Labs-5-049FD9?style=for-the-badge&labelColor=0d1117&logo=cisco&logoColor=white)
+![Networking Labs](https://img.shields.io/badge/Networking_Labs-5-049FD9?style=for-the-badge&labelColor=0d1117&logo=wireshark&logoColor=white)
 ![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-2-7B2FF7?style=for-the-badge&labelColor=0d1117&logo=powerbi&logoColor=white)
 ![ML and Data Projects](https://img.shields.io/badge/ML_%26_Data_Projects-5-FF2D87?style=for-the-badge&labelColor=0d1117&logo=scikitlearn&logoColor=white)
 ![Commercial POS](https://img.shields.io/badge/Commercial_POS-1-22E58A?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white)
