@@ -4,7 +4,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=8FDCFF&center=true&vCenter=true&width=720&height=45&lines=Building+Networks+from+the+Ground+Up;Designing+Secure+and+Redundant+Networks;CCNA+Path+%E2%86%92+Network+Automation+%E2%86%92+Cloud;Open+to+Freelance+Network+Projects" alt="Typing SVG" /></a>
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -13,19 +13,26 @@
 
 </div>
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
-<img src="h-glance.svg" alt="At a glance" width="100%" />
+<div align="center">
 
-<img src="glance.svg" alt="5 networking labs, 2 Power BI dashboards, 5 ML and data projects, 1 commercial desktop POS" width="100%" />
+### 📈 At a Glance
 
-<br>
+![Networking Labs](https://img.shields.io/badge/Networking_Labs-5-049FD9?style=for-the-badge&labelColor=0d1117&logo=cisco&logoColor=white)
+![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-2-7B2FF7?style=for-the-badge&labelColor=0d1117&logo=powerbi&logoColor=white)
+![ML and Data Projects](https://img.shields.io/badge/ML_%26_Data_Projects-5-FF2D87?style=for-the-badge&labelColor=0d1117&logo=scikitlearn&logoColor=white)
+![Commercial POS](https://img.shields.io/badge/Commercial_POS-1-22E58A?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white)
+
+</div>
+
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-about.svg" alt="About me" width="100%" />
 
 <img src="whoami.svg" alt="Mohsin Khan: Software Engineering student building a career in network engineering" width="100%" />
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-featured.svg" alt="Featured Project" width="100%" />
 
@@ -35,7 +42,7 @@
 
 **Highlights:** VLAN segmentation · Router-on-a-Stick · HSRP high availability · OSPF · LACP EtherChannel · DHCP · NAT/PAT with VPN exemption · Extended ACLs · Port Security · SSH · Site-to-Site IPsec VPN
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-projects.svg" alt="Networking Projects" width="100%" />
 
@@ -162,7 +169,7 @@
 
 </details>
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-software.svg" alt="Desktop Software" width="100%" />
 
@@ -201,7 +208,7 @@
 
 > 🔒 This is closed-source commercial software. The source code is not public.
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-data.svg" alt="Data and ML Projects" width="100%" />
 
@@ -335,13 +342,13 @@
 
 </details>
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-stack.svg" alt="Tech Stack" width="100%" />
 
 <img src="tech-stack.svg" alt="Tech Stack: networking, programming, cloud and tools" width="100%" />
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-roadmap.svg" alt="Roadmap" width="100%" />
 
@@ -356,7 +363,7 @@
 | ⏳ | Firewall and security lab (FortressNet) |
 | ⏳ | CCNP and Cloud Networking (AWS / Azure) |
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-stats.svg" alt="GitHub Stats" width="100%" />
 
@@ -371,7 +378,7 @@
 
 </div>
 
-<br>
+<img src="divider.svg" alt="" width="100%" />
 
 <img src="h-snake.svg" alt="Contribution Snake" width="100%" />
 
