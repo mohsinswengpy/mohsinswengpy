@@ -1,50 +1,64 @@
 <div align="center">
 
-<img src="banner.svg" alt="Mohsin Khan - Software Engineering Student | Aspiring Network Engineer" width="100%" />
+<img src="banner.svg" alt="Mohsin Khan, aspiring DevOps engineer. A packet travels from a lab network through an IPsec tunnel to an AWS VPC." width="100%" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=8FDCFF&center=true&vCenter=true&width=720&height=45&lines=Building+Networks+from+the+Ground+Up;Designing+Secure+and+Redundant+Networks;CCNA+Path+%E2%86%92+Network+Automation+%E2%86%92+Cloud;Open+to+Freelance+Network+Projects" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&height=45&lines=Networks+first.+Then+Linux.+Then+Cloud.;CCNA+%E2%86%92+Linux+%E2%86%92+AWS+%E2%86%92+Automation;Designing+secure+and+redundant+networks;Open+to+freelance+network+projects" alt="Typing SVG" /></a>
 
-<img src="divider.svg" alt="" width="100%" />
+<br/>
 
-<a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://mastodon.social/@Mohsin"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" /></a>
-<a href="https://www.facebook.com/share/p/1BsUQF93ku/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mohsin-khan-2002ba3a8"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://mastodon.social/@Mohsin"><img src="https://img.shields.io/badge/Mastodon-2B90D9?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" /></a>
+<a href="https://www.facebook.com/share/p/1BsUQF93ku/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 
 </div>
 
 <img src="divider.svg" alt="" width="100%" />
+
+<img src="sec-about.svg" alt="whoami" width="100%" />
+
+I am a Software Engineering student who builds enterprise networks in the lab: VLANs, OSPF, HSRP, NAT, ACLs and IPsec VPNs. I am now moving toward **DevOps** by learning three things side by side: **CCNA**, **Linux** and **AWS**. After that comes Git, Docker, Terraform, CI/CD and Kubernetes.
+
+I also build real software. I wrote a desktop POS system that a working pharmacy uses.
 
 <div align="center">
 
-### 📈 At a Glance
-
-![Networking Labs](https://img.shields.io/badge/Networking_Labs-5-049FD9?style=for-the-badge&labelColor=0d1117&logo=wireshark&logoColor=white)
-![Power BI Dashboards](https://img.shields.io/badge/Power_BI_Dashboards-2-7B2FF7?style=for-the-badge&labelColor=0d1117&logo=powerbi&logoColor=white)
-![ML and Data Projects](https://img.shields.io/badge/ML_%26_Data_Projects-5-FF2D87?style=for-the-badge&labelColor=0d1117&logo=scikitlearn&logoColor=white)
-![Commercial POS](https://img.shields.io/badge/Commercial_POS-1-22E58A?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white)
+<img src="https://img.shields.io/badge/Networking_labs-5-049FD9?style=for-the-badge&labelColor=0d1117&logo=cisco&logoColor=white" alt="Networking labs: 5" />
+<img src="https://img.shields.io/badge/Power_BI_dashboards-2-F2C811?style=for-the-badge&labelColor=0d1117&logo=powerbi&logoColor=white" alt="Power BI dashboards: 2" />
+<img src="https://img.shields.io/badge/ML_and_data_projects-5-FF2D87?style=for-the-badge&labelColor=0d1117&logo=scikitlearn&logoColor=white" alt="ML and data projects: 5" />
+<img src="https://img.shields.io/badge/Commercial_POS-1-22E58A?style=for-the-badge&labelColor=0d1117&logo=python&logoColor=white" alt="Commercial POS: 1" />
 
 </div>
 
 <img src="divider.svg" alt="" width="100%" />
 
-<img src="h-about.svg" alt="About me" width="100%" />
+<img src="sec-journey.svg" alt="quest status" width="100%" />
 
-<img src="whoami.svg" alt="Mohsin Khan: Software Engineering student building a career in network engineering" width="100%" />
+<div align="center">
+<img src="quest.svg" alt="DevOps quest log: networking labs cleared, CCNA, Linux and AWS in progress, then Git and Docker, IaC and CI/CD, and Kubernetes ahead." width="100%" />
+</div>
 
 <img src="divider.svg" alt="" width="100%" />
 
-<img src="h-featured.svg" alt="Featured Project" width="100%" />
+<img src="sec-terminal.svg" alt="tail -f lab-session.log" width="100%" />
 
-### 🏢 Enterprise Multi-Branch Network: Lahore HQ ↔ Islamabad Branch
+<div align="center">
+<img src="terminal.svg" alt="Animated terminal: an IPsec status check, an SSH uptime check and the next tools to learn. Illustrative." width="860" />
+</div>
+
+<img src="divider.svg" alt="" width="100%" />
+
+<img src="sec-featured.svg" alt="cat featured-project.md" width="100%" />
+
+### Enterprise Multi-Branch Network: Lahore HQ and Islamabad Branch
 
 <img src="featured-map.svg" alt="Enterprise Multi-Branch Network map" width="100%" />
 
-**Highlights:** VLAN segmentation · Router-on-a-Stick · HSRP high availability · OSPF · LACP EtherChannel · DHCP · NAT/PAT with VPN exemption · Extended ACLs · Port Security · SSH · Site-to-Site IPsec VPN
+**Highlights:** VLAN segmentation, Router-on-a-Stick, HSRP high availability, OSPF, LACP EtherChannel, DHCP, NAT/PAT with VPN exemption, extended ACLs, port security, SSH, site-to-site IPsec VPN.
 
 <img src="divider.svg" alt="" width="100%" />
 
-<img src="h-projects.svg" alt="Networking Projects" width="100%" />
+<img src="sec-projects.svg" alt="ls networking-projects/" width="100%" />
 
 <table>
 <tr>
@@ -61,12 +75,8 @@
 </tr>
 </table>
 
-### 📖 Project Details
-
-<sub>Click a project to read the full explanation.</sub>
-
 <details>
-<summary><b>🏢 Enterprise Multi-Branch Network (Lahore HQ ↔ Islamabad)</b></summary>
+<summary><b>Enterprise Multi-Branch Network (Lahore HQ and Islamabad)</b></summary>
 
 **The problem:** A company with two offices needs them to talk to each other securely over the internet, and the head office must keep working even if one gateway router fails.
 
@@ -85,95 +95,74 @@
 
 **Known limitation:** Gateway redundancy covers Lahore only. Islamabad has one router, and VPN failover for R2-HQ is a planned improvement.
 
-**Skills:** High availability, WAN design, IPsec VPN, enterprise planning.
-
 </details>
 
 <details>
-<summary><b>🌐 OSPF Multi-Area Routing</b></summary>
+<summary><b>OSPF Multi-Area Routing</b></summary>
 
 **The problem:** In a big network, a single OSPF area makes every router hold every detail of the whole topology, which does not scale.
 
 **What I built:** A lab with **Area 0 (backbone)** and **Area 1** across three routers, connecting two end-user networks.
 
-**How it works:**
-- An **Area Border Router (ABR)** sits between the two areas and passes summarised routes between them.
-- Routes learned from the other area show up as **inter-area (`O IA`)** routes.
-- Because details stay inside each area, the routing tables stay smaller and changes affect fewer routers.
+**How it works:** An **Area Border Router (ABR)** sits between the two areas and passes summarised routes between them. Routes from the other area show up as inter-area (`O IA`) routes, so routing tables stay smaller and changes affect fewer routers.
 
 **How I checked it:** `show ip ospf neighbor`, `show ip route`, and a ping between the two end-user networks.
 
-**Skills:** Multi-area OSPF, ABR role, reading routing tables.
-
 </details>
 
 <details>
-<summary><b>🔁 OSPF Dynamic Routing with Failover</b></summary>
+<summary><b>OSPF Dynamic Routing with Failover</b></summary>
 
 **The problem:** If the only path to the ISP breaks, users lose internet. Networks need a backup path that takes over without manual work.
 
-**What I built:** A network with **two paths to an ISP** and a server reachable across it, using OSPF as the routing protocol.
+**What I built:** A network with **two paths to an ISP** and a server reachable across it, using OSPF.
 
-**How it works:**
-- OSPF learns both paths and prefers the best one.
-- When I bring the primary link down, OSPF removes that route, recalculates and switches traffic to the backup path automatically.
-- The server stays reachable during and after the change.
+**How it works:** OSPF learns both paths and prefers the best one. When I bring the primary link down, OSPF removes that route, recalculates and moves traffic to the backup path automatically. The server stays reachable.
 
 **How I checked it:** Routing table before and after the failure, and ping tests while the link was down.
 
-**Skills:** Dynamic routing, redundancy, convergence.
-
 </details>
 
 <details>
-<summary><b>🧩 VLAN Segmentation & Trunking</b></summary>
+<summary><b>VLAN Segmentation and Trunking</b></summary>
 
 **The problem:** Putting every department on one flat network is slow and insecure, because every device hears every broadcast.
 
-**What I built:** A switched lab where departments are split into **VLANs** on shared switches.
-
-**How it works:**
-- VLANs are created and ports are assigned as **access ports** to the right VLAN.
-- Links between switches are **802.1Q trunks**, which carry traffic for many VLANs over one cable using tags.
-- IP addressing is set up per VLAN, and connectivity is tested inside each VLAN and between them.
-- I also practised troubleshooting typical problems such as a wrong VLAN on a port.
-
-**Skills:** Layer 2 switching, VLANs, trunking, troubleshooting.
+**What I built:** A switched lab where departments are split into **VLANs** on shared switches, with access ports, **802.1Q trunks**, per-VLAN addressing and connectivity tests inside and between VLANs. I also practised troubleshooting typical problems such as a wrong VLAN on a port.
 
 </details>
 
 <details>
-<summary><b>🛡️ DHCP, NAT & ACL Networking Lab</b></summary>
+<summary><b>DHCP, NAT and ACL Networking Lab</b></summary>
 
 **The problem:** A network needs addresses handed out automatically, a way for private devices to reach the internet, and rules about what traffic is allowed.
 
-**What I built:** A lab that configures three core network services.
-
-**How it works:**
-- **DHCP** gives devices their IP settings automatically, so nobody has to type them in.
-- **NAT/PAT** translates private addresses to a public one so many devices can share a single internet address.
-- **ACLs** allow or block specific traffic, which is the first layer of network security.
-
-**Skills:** Network services, traffic filtering, basic security.
+**What I built:** A lab that configures **DHCP** for automatic addressing, **NAT/PAT** so many private devices share one public address, and **ACLs** to allow or block specific traffic.
 
 </details>
 
 <details>
-<summary><b>⚙️ ConfigGuardian: Network Automation (in progress)</b></summary>
+<summary><b>ConfigGuardian: network automation (in progress)</b></summary>
 
 **The problem:** Backing up and checking router configurations by hand is slow and error-prone.
 
-**Plan:** A **Python + Netmiko** tool, tested in GNS3, that connects to routers over SSH, saves their configurations, and checks settings such as SSH and logging. It will also read OSPF neighbor state and produce a simple report.
-
-**Status:** In development. The code will be published when it is finished.
+**Plan:** A **Python + Netmiko** tool, tested in GNS3, that connects to routers over SSH, saves their configurations, and checks settings such as SSH and logging. It will also read OSPF neighbor state and produce a simple report. The code will be published when it is finished.
 
 </details>
 
+### On the bench next
+
+| Status | Build |
+|:---:|---|
+| 🔄 | **Hybrid cloud lab:** a lab network connected to an AWS VPC over a Site-to-Site IPsec VPN |
+| 🔄 | **ConfigGuardian:** Python and Netmiko config backup and audit |
+| ⏳ | **BGP and multi-site WAN**, then **monitoring** with Zabbix and Grafana |
+
 <img src="divider.svg" alt="" width="100%" />
 
-<img src="h-software.svg" alt="Desktop Software" width="100%" />
+<img src="sec-software.svg" alt="cat desktop-software.md" width="100%" />
 
-### 💊 Sheraz Pharmacy POS: Desktop Software for a Real Pharmacy
+### Sheraz Pharmacy POS: desktop software for a real pharmacy
 
 <img src="pos-card.svg" alt="Sheraz Pharmacy POS interface preview (illustration)" width="100%" />
 
@@ -196,212 +185,78 @@
 
 **Built with:** `Python` · `PyQt6` · `SQLite` · `ReportLab` · `OpenPyXL`
 
-<details>
-<summary><b>🚧 What I am adding next</b></summary>
-
-- Customer accounts with credit (khata / udhar) tracking
-- Medicine substitute finder when an item is out of stock
-- Expiry loss prediction with clearance discount suggestions
-- Automatic reorder list and purchase orders for vendors
-
-</details>
-
 > 🔒 This is closed-source commercial software. The source code is not public.
 
 <img src="divider.svg" alt="" width="100%" />
 
-<img src="h-data.svg" alt="Data and ML Projects" width="100%" />
+<img src="sec-data.svg" alt="ls data-and-ml/" width="100%" />
 
-<div align="center">
+<details>
+<summary><b>Data analytics and machine learning projects (7)</b></summary>
 
-*Beyond networking: data analysis and machine learning projects built with Python and Power BI.*
-
-</div>
-
-### 📊 Data Analytics (Power BI)
+<br/>
 
 | Project | What it does | Tools |
 |---|---|---|
-| [**superstore-sales-analysis-powerbi**](https://github.com/mohsinswengpy/superstore-sales-analysis-powerbi) | Interactive dashboard analysing Superstore sales, profit, product, customer / region and shipping data across 4 report pages. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-| [**ecommerce-sales-dashboard**](https://github.com/mohsinswengpy/ecommerce-sales-dashboard) | E-commerce sales dashboard showing yearly revenue, profit trends and regional performance. | ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black) |
-
-### 🤖 Machine Learning
-
-| Project | What it does | Tools |
-|---|---|---|
-| [**Loan-Status-Prediction-SVM**](https://github.com/mohsinswengpy/Loan-Status-Prediction-SVM) | Predicts loan approval status to reduce manual bias, speed up processing and support faster, data-driven lending decisions. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![SVM](https://img.shields.io/badge/SVM-7B2FF7?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| [**House-Price-Prediction-**](https://github.com/mohsinswengpy/House-Price-Prediction-) | Predicts house prices with an XGBoost Regressor, covering data preprocessing, EDA, model training and evaluation. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![XGBoost](https://img.shields.io/badge/XGBoost-049FD9?style=flat-square) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| [**car-price-prediction**](https://github.com/mohsinswengpy/car-price-prediction) | Predicts the selling price of used cars using regression analysis on features like year, fuel type and transmission. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Regression](https://img.shields.io/badge/Regression-FF2D87?style=flat-square) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) |
-| [**-Fake-News-Prediction**](https://github.com/mohsinswengpy/-Fake-News-Prediction) | Classifies news articles as Real or Fake based on their title, author and text content. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NLTK](https://img.shields.io/badge/NLTK-22E58A?style=flat-square) ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
-| [**rock-and-mine**](https://github.com/mohsinswengpy/rock-and-mine) | End-to-end data science project that uses predictive analytics to help optimise agricultural productivity. | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Predictive Analytics](https://img.shields.io/badge/Predictive_Analytics-7B2FF7?style=flat-square) |
-
-### 📖 Project Details
-
-<sub>Click a project to read the full explanation.</sub>
-
-<details>
-<summary><b>📊 Superstore Sales Analysis (Power BI)</b></summary>
-
-**The problem:** A retail business has thousands of sales rows but no quick way to see what is selling, what is profitable, and where.
-
-**What I built:** An **interactive Power BI dashboard** spread over **4 report pages**.
-
-**What it shows:**
-- Sales and profit performance
-- Product-level analysis
-- Customer and regional breakdown
-- Shipping data
-
-**Why it is useful:** A manager can filter the visuals and spot strong and weak products or regions without reading raw tables.
-
-**Skills:** Data modelling, DAX / visuals, dashboard design, business insight.
-
-</details>
-
-<details>
-<summary><b>🛒 E-commerce Sales Dashboard (Power BI)</b></summary>
-
-**The problem:** An online store needs a simple view of how the business is doing over time and by region.
-
-**What I built:** A Power BI dashboard that analyses **yearly revenue, profit trends and regional performance**.
-
-**Why it is useful:** It turns sales records into charts that show growth, slow periods and the best-performing regions.
-
-**Skills:** Data visualisation, KPI design, trend analysis.
-
-</details>
-
-<details>
-<summary><b>🏦 Loan Status Prediction (SVM)</b></summary>
-
-**The problem:** Deciding loan approvals by hand is slow and can be biased.
-
-**What I built:** A machine-learning model using a **Support Vector Machine (SVM)** that predicts whether a loan will be approved.
-
-**Approach:** Prepare and clean the applicant data, train the SVM classifier, and evaluate how well it predicts loan status.
-
-**Why it is useful:** It supports faster, data-driven lending decisions and reduces manual bias.
-
-**Skills:** Classification, data preprocessing, model evaluation (Python, Scikit-learn).
-
-</details>
-
-<details>
-<summary><b>🏠 House Price Prediction (XGBoost)</b></summary>
-
-**The problem:** Pricing a house depends on many factors, and guessing is unreliable.
-
-**What I built:** A regression project that predicts house prices with an **XGBoost Regressor**.
-
-**Approach:**
-1. **Data preprocessing:** cleaning and preparing the data.
-2. **EDA:** exploring patterns and relationships in the data.
-3. **Model training:** fitting the XGBoost model.
-4. **Evaluation:** measuring how close the predictions are to real prices.
-
-**Tools:** Python, Pandas, Scikit-learn, XGBoost.
-
-**Skills:** Regression, feature handling, model evaluation.
-
-</details>
-
-<details>
-<summary><b>🚗 Car Price Prediction</b></summary>
-
-**The problem:** Sellers and buyers of used cars need a fair price estimate.
-
-**What I built:** A machine-learning project that predicts the **selling price of used cars** with **regression analysis**.
-
-**Approach:** Use features such as the car's **year, fuel type and transmission** to train a model, then check how accurate its predictions are.
-
-**Skills:** Regression, categorical feature handling, model evaluation (Python).
-
-</details>
-
-<details>
-<summary><b>📰 Fake News Prediction</b></summary>
-
-**The problem:** Fake news spreads quickly and is hard to spot by reading alone.
-
-**What I built:** A machine-learning model that classifies a news article as **Real or Fake** using its **title, author and text**.
-
-**Approach:** Clean and process the text with **NLTK**, turn it into features, and train a classifier with **Scikit-learn**.
-
-**Skills:** Natural language processing, text classification (Python, NLTK, Scikit-learn).
-
-</details>
-
-<details>
-<summary><b>🌾 Rock and Mine: Predictive Analytics</b></summary>
-
-**The problem:** Raw field data is hard to turn into useful decisions.
-
-**What I built:** An **end-to-end data science project** that uses predictive analytics to help **optimise agricultural productivity**, connecting raw data to practical, data-driven decisions.
-
-**Skills:** End-to-end data science workflow, predictive modelling (Python).
+| [**superstore-sales-analysis-powerbi**](https://github.com/mohsinswengpy/superstore-sales-analysis-powerbi) | Interactive dashboard analysing Superstore sales, profit, product, customer / region and shipping data across 4 report pages. | Power BI |
+| [**ecommerce-sales-dashboard**](https://github.com/mohsinswengpy/ecommerce-sales-dashboard) | E-commerce sales dashboard showing yearly revenue, profit trends and regional performance. | Power BI |
+| [**Loan-Status-Prediction-SVM**](https://github.com/mohsinswengpy/Loan-Status-Prediction-SVM) | Predicts loan approval status to reduce manual bias and support faster, data-driven lending decisions. | Python, SVM, Jupyter |
+| [**House-Price-Prediction-**](https://github.com/mohsinswengpy/House-Price-Prediction-) | Predicts house prices with an XGBoost Regressor: preprocessing, EDA, training and evaluation. | Python, Pandas, Scikit-learn, XGBoost |
+| [**car-price-prediction**](https://github.com/mohsinswengpy/car-price-prediction) | Predicts the selling price of used cars with regression on year, fuel type and transmission. | Python, Jupyter |
+| [**-Fake-News-Prediction**](https://github.com/mohsinswengpy/-Fake-News-Prediction) | Classifies news articles as Real or Fake from title, author and text. | Python, NLTK, Scikit-learn |
+| [**rock-and-mine**](https://github.com/mohsinswengpy/rock-and-mine) | End-to-end data science project using predictive analytics to help optimise agricultural productivity. | Python |
 
 </details>
 
 <img src="divider.svg" alt="" width="100%" />
 
-<img src="h-stack.svg" alt="Tech Stack" width="100%" />
-
-<img src="tech-stack.svg" alt="Tech Stack: networking, programming, cloud and tools" width="100%" />
-
-<img src="divider.svg" alt="" width="100%" />
-
-<img src="h-roadmap.svg" alt="Roadmap" width="100%" />
-
-| Status | Goal |
-|:---:|---|
-| ✅ | CCNA-level labs: VLAN, OSPF, HSRP, NAT, ACL, IPsec VPN |
-| ✅ | Desktop software for a real business (Sheraz Pharmacy POS) |
-| 🔄 | Python network automation with Netmiko (ConfigGuardian) |
-| 🔄 | CCNA certification |
-| ⏳ | BGP + multi-site WAN (BGP-Bridge) |
-| ⏳ | Monitoring with Zabbix / Grafana (NetPulse) |
-| ⏳ | Firewall and security lab (FortressNet) |
-| ⏳ | CCNP and Cloud Networking (AWS / Azure) |
-
-<img src="divider.svg" alt="" width="100%" />
-
-<img src="h-stats.svg" alt="GitHub Stats" width="100%" />
+<img src="sec-stack.svg" alt="cat stack.txt" width="100%" />
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&hide_border=false&bg_color=0d1117&title_color=049FD9&text_color=c9d1d9&icon_color=7B2FF7&border_color=1f2a44&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&bg_color=0d1117&title_color=049FD9&text_color=c9d1d9&border_color=1f2a44" />
-
-<img src="https://streak-stats.demolab.com/?user=mohsinswengpy&background=0D1117&border=1F2A44&stroke=1F2A44&ring=049FD9&fire=FF2D87&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=049FD9&sideLabels=8FB3C9&dates=5D7E95" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinswengpy&bg_color=0d1117&color=049FD9&line=7B2FF7&point=ffffff&area=true&area_color=7B2FF7&hide_border=true" width="100%" />
+<img src="https://img.shields.io/badge/Cisco-IOS-049FD9?style=flat-square&logo=cisco&logoColor=white" alt="Cisco IOS" />
+<img src="https://img.shields.io/badge/Packet_Tracer-lab-1BA0D7?style=flat-square" alt="Packet Tracer" />
+<img src="https://img.shields.io/badge/GNS3-lab-6C3FD1?style=flat-square" alt="GNS3" />
+<img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+<img src="https://img.shields.io/badge/Linux-learning-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux, learning" />
+<img src="https://img.shields.io/badge/AWS-learning-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS, learning" />
+<img src="https://img.shields.io/badge/CCNA-in_progress-F59E0B?style=flat-square&logo=cisco&logoColor=white" alt="CCNA, in progress" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
 
 </div>
 
 <img src="divider.svg" alt="" width="100%" />
 
-<img src="h-snake.svg" alt="Contribution Snake" width="100%" />
+<img src="sec-stats.svg" alt="git log --stat" width="100%" />
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohsinswengpy&show_icons=true&hide_border=false&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&icon_color=fbbf24&border_color=1b2c4a&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohsinswengpy&layout=compact&bg_color=0d1117&title_color=5eead4&text_color=c9d1d9&border_color=1b2c4a" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com/?user=mohsinswengpy&background=0D1117&border=1B2C4A&stroke=1B2C4A&ring=5EEAD4&fire=FBBF24&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=5EEAD4&sideLabels=8FB3C9&dates=5D7E95" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohsinswengpy&bg_color=0d1117&color=5eead4&line=22d3ee&point=ffffff&area=true&area_color=22d3ee&hide_border=true" width="100%" alt="Contribution graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake.svg" />
-  <img alt="Neon contribution snake" src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake-dark.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
----
+<img src="divider.svg" alt="" width="100%" />
+
+<img src="sec-contact.svg" alt="mail -s hello mohsin" width="100%" />
 
 <div align="center">
 
-### 🤝 Need a network designed, configured or troubleshot? Or custom business software? Let's connect!
+### Need a network designed, configured or troubleshot? Or custom business software?
 
-<a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Message_Me-049FD9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:mohsin161955@gmail.com"><img src="https://img.shields.io/badge/Message_me-5EEAD4?style=for-the-badge&logo=gmail&logoColor=0d1117" alt="Message me" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile+Views&color=049FD9&style=flat-square" />
-
-<img src="footer.svg" alt="footer" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=mohsinswengpy&label=Profile+Views&color=22d3ee&style=flat-square" alt="Profile views" />
 
 </div>
