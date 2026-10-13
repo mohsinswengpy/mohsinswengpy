@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/banner.svg" alt="Mohsin Khan, aspiring DevOps engineer. A packet travels from a lab network through an IPsec tunnel to an AWS VPC." width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/banner.svg" alt="Mohsin Khan, aspiring DevOps engineer. A packet travels from a lab network through an IPsec tunnel to an AWS VPC." width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1000&color=5EEAD4&center=true&vCenter=true&width=760&height=45&lines=Networks+first.+Then+Linux.+Then+Cloud.;CCNA+%E2%86%92+Linux+%E2%86%92+AWS+%E2%86%92+Automation;Designing+secure+and+redundant+networks;Open+to+freelance+network+projects" alt="Typing SVG" /></a>
 
@@ -13,9 +13,9 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-about.svg" alt="whoami" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-about.svg" alt="whoami" width="100%" />
 
 I am a Software Engineering student who builds enterprise networks in the lab: VLANs, OSPF, HSRP, NAT, ACLs and IPsec VPNs. I am now moving toward **DevOps** by learning three things side by side: **CCNA**, **Linux** and **AWS**. After that comes Git, Docker, Terraform, CI/CD and Kubernetes.
 
@@ -30,48 +30,48 @@ I also build real software. I wrote a desktop POS system that a working pharmacy
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-journey.svg" alt="quest status" width="100%" />
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/quest.svg" alt="DevOps quest log: networking labs cleared, CCNA, Linux and AWS in progress, then Git and Docker, IaC and CI/CD, and Kubernetes ahead." width="100%" />
-</div>
-
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
-
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-terminal.svg" alt="tail -f lab-session.log" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-journey.svg" alt="quest status" width="100%" />
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/terminal.svg" alt="Animated terminal: an IPsec status check, an SSH uptime check and the next tools to learn. Illustrative." width="860" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/quest.svg" alt="DevOps quest log: networking labs cleared, CCNA, Linux and AWS in progress, then Git and Docker, IaC and CI/CD, and Kubernetes ahead." width="100%" />
 </div>
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-featured.svg" alt="cat featured-project.md" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-terminal.svg" alt="tail -f lab-session.log" width="100%" />
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/terminal.svg" alt="Animated terminal: an IPsec status check, an SSH uptime check and the next tools to learn. Illustrative." width="860" />
+</div>
+
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
+
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-featured.svg" alt="cat featured-project.md" width="100%" />
 
 ### Enterprise Multi-Branch Network: Lahore HQ and Islamabad Branch
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/featured-map.svg" alt="Enterprise Multi-Branch Network map" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/featured-map.svg" alt="Enterprise Multi-Branch Network map" width="100%" />
 
 **Highlights:** VLAN segmentation, Router-on-a-Stick, HSRP high availability, OSPF, LACP EtherChannel, DHCP, NAT/PAT with VPN exemption, extended ACLs, port security, SSH, site-to-site IPsec VPN.
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-projects.svg" alt="ls networking-projects/" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-projects.svg" alt="ls networking-projects/" width="100%" />
 
 <table>
 <tr>
-<td width="50%"><a href="https://github.com/mohsinswengpy/-Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/p1-enterprise.svg" alt="Enterprise Multi-Branch Network" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/mohsinswengpy/OSPF-Multi-Area-Routing-Cisco-Packet-Tracer"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/p2-ospf-multiarea.svg" alt="OSPF Multi-Area Routing" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/-Enterprise-Multi-Branch-Infrastructure-Redundant-Network-Architecture"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/p1-enterprise.svg" alt="Enterprise Multi-Branch Network" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/OSPF-Multi-Area-Routing-Cisco-Packet-Tracer"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/p2-ospf-multiarea.svg" alt="OSPF Multi-Area Routing" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/mohsinswengpy/OSPF-Dynamic-Routing-Failover"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/p3-ospf-failover.svg" alt="OSPF Dynamic Routing Failover" width="100%" /></a></td>
-<td width="50%"><a href="https://github.com/mohsinswengpy/vlan-segmentation-trunking-lab"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/p4-vlan.svg" alt="VLAN Segmentation and Trunking" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/OSPF-Dynamic-Routing-Failover"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/p3-ospf-failover.svg" alt="OSPF Dynamic Routing Failover" width="100%" /></a></td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/vlan-segmentation-trunking-lab"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/p4-vlan.svg" alt="VLAN Segmentation and Trunking" width="100%" /></a></td>
 </tr>
 <tr>
-<td width="50%"><a href="https://github.com/mohsinswengpy/dhcp-nat-acl-networking-lab"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/p5-services.svg" alt="DHCP, NAT and ACL Networking Lab" width="100%" /></a></td>
-<td width="50%"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/p6-configguardian.svg" alt="ConfigGuardian: network automation, coming soon" width="100%" /></td>
+<td width="50%"><a href="https://github.com/mohsinswengpy/dhcp-nat-acl-networking-lab"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/p5-services.svg" alt="DHCP, NAT and ACL Networking Lab" width="100%" /></a></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/p6-configguardian.svg" alt="ConfigGuardian: network automation, coming soon" width="100%" /></td>
 </tr>
 </table>
 
@@ -158,13 +158,13 @@ I also build real software. I wrote a desktop POS system that a working pharmacy
 | 🔄 | **ConfigGuardian:** Python and Netmiko config backup and audit |
 | ⏳ | **BGP and multi-site WAN**, then **monitoring** with Zabbix and Grafana |
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-software.svg" alt="cat desktop-software.md" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-software.svg" alt="cat desktop-software.md" width="100%" />
 
 ### Sheraz Pharmacy POS: desktop software for a real pharmacy
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/main/pos-card.svg" alt="Sheraz Pharmacy POS interface preview (illustration)" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/pos-card.svg" alt="Sheraz Pharmacy POS interface preview (illustration)" width="100%" />
 
 <div align="center">
 
@@ -187,9 +187,9 @@ I also build real software. I wrote a desktop POS system that a working pharmacy
 
 > 🔒 This is closed-source commercial software. The source code is not public.
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-data.svg" alt="ls data-and-ml/" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-data.svg" alt="ls data-and-ml/" width="100%" />
 
 <details>
 <summary><b>Data analytics and machine learning projects (7)</b></summary>
@@ -208,9 +208,9 @@ I also build real software. I wrote a desktop POS system that a working pharmacy
 
 </details>
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-stack.svg" alt="cat stack.txt" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-stack.svg" alt="cat stack.txt" width="100%" />
 
 <div align="center">
 
@@ -226,9 +226,9 @@ I also build real software. I wrote a desktop POS system that a working pharmacy
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-stats.svg" alt="git log --stat" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-stats.svg" alt="git log --stat" width="100%" />
 
 <div align="center">
 
@@ -247,9 +247,9 @@ I also build real software. I wrote a desktop POS system that a working pharmacy
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/divider.svg" alt="" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/divider.svg" alt="" width="100%" />
 
-<img src="https://raw.githubusercontent.com/mohsinswengpy/.github/main/sec-contact.svg" alt="mail -s hello mohsin" width="100%" />
+<img src="https://raw.githubusercontent.com/mohsinswengpy/mohsinswengpy/HEAD/sec-contact.svg" alt="mail -s hello mohsin" width="100%" />
 
 <div align="center">
 
